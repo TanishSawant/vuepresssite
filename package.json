@@ -1,0 +1,20 @@
+{
+  "name": "vuepresssite",
+  "version": "1.0.0",
+  "description": "---\r home: true\r heroImage: images/spain.jpg\r heroText: La motivación cada vez que abres google.\r tagline: deja las distresiones lejos y aprende español!\r actionText: Get Started →\r actionLink: /guide/\r features:\r - title: Only Important links\r   details: Very important links that is, YouTube, Google and SpanishDict are provided.\r - title: No distractions.\r   details: Do you find unable to resist yourself from clicking that Instagram or Facebook icon that pops up as the recommendation on the default starting page of your browser?\r - title: Simplicity\r   details: Not much of detailed fancy webPage. It is intended to help you focus on learning spanish.\r ---",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "vuepress build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TanishSawant/vuepresssite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TanishSawant/vuepresssite/issues"
+  },
+  "homepage": "https://github.com/TanishSawant/vuepresssite#readme"
+}
