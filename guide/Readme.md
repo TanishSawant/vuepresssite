@@ -4,9 +4,11 @@
 
 - On your browser window you are viewing this page, You can see a menu icon on the top rightmost corner. Click on that, it will show a dropdoen menu.
 
-![des](./)
+
+![enter image description here](https://github.com/TanishSawant/vuepresssite/blob/master/.vuepress/public/images/image1.png?raw=true)
 
 - Now, click on settings.
 - Once you scroll down, you will see a section named "On Startup"
-![enter image description here](https://github.com/TanishSawant/vuepresssite/blob/master/.vuepress/public/images/image.png?raw=true)
+
+![enter image description here](https://github.com/TanishSawant/vuepresssite/blob/master/.vuepress/public/images/image123.png?raw=true)
 
