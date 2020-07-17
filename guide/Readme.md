@@ -12,3 +12,13 @@
 
 ![enter image description here](https://github.com/TanishSawant/vuepresssite/blob/master/.vuepress/public/images/image123.png?raw=true)
 
+
+- Click on "Open a specific page or set of pages", Then click on "Add New Page".
+
+![d](https://github.com/TanishSawant/vuepresssite/blob/master/.vuepress/public/images/image.png?raw=true)
+
+- New dialogue box as shown will open. Type [https://tanishsawant.github.io/nuxt-jokes/](https://tanishsawant.github.io/nuxt-jokes/) in it.
+
+- And you are done!!!
+
+- Now whenever you go and open your browser, it will display this page at first.
