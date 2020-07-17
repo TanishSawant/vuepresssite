@@ -4,10 +4,14 @@ module.exports = {
     themeConfig: {
         nav: [
             {text: 'Home' , link: '/'},
+            {text: 'Significance' , link: '/use/'},
             {text: 'Guide' , link: '/guide/'},
             {text: 'Blog' , link: 'https://infocrumbers.blogspot.com/'},
         ],
-        sidebar: 'auto'
+        sidebar: {
+            '/guide/' : 'auto',
+            '/use/' : 'auto'
+        }
     }
 }
 
